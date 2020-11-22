@@ -1,0 +1,1 @@
+Este repositorio é sobre a semana next level week, aonde foi criado um site sobre localização, informação e cadastro de lares para crianças em adoção, e ou vunerabilidade social. Esta foi uma semana que aprendi muito.

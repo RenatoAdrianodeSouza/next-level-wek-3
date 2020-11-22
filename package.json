@@ -1,0 +1,27 @@
+{
+  "name": "next-level-wek-3",
+  "version": "1.0.0",
+  "description": "Este repositorio é sobre a semana next level week, aonde foi criado um site sobre localização, informação e cadastro de lares para crianças em adoção, e ou vunerabilidade social. Esta foi uma semana que aprendi muito.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoAdrianodeSouza/next-level-wek-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoAdrianodeSouza/next-level-wek-3/issues"
+  },
+  "homepage": "https://github.com/RenatoAdrianodeSouza/next-level-wek-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "nodemon": "^2.0.6",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  }
+}
